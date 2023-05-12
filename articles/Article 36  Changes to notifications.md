@@ -1,0 +1,8 @@
+---
+category: Article
+article: Article 36  Changes to notifications.md
+---
+
+1. Where a [notifying authority](notifying authority.html) has suspicions or has been informed that a [notified body](notified body.html) no longer meets the requirements laid down in Article 33, or that it is failing to fulfil its obligations, that authority shall without delay investigate the matter with the utmost diligence. In that context, it shall inform the [notified body](notified body.html) concerned about the objections raised and give it the possibility to make its views known. If the [notifying authority](notifying authority.html) comes to the conclusion that the [notified body](notified body.html) investigation no longer meets the requirements laid down in Article 33 or that it is failing to fulfil its obligations, it shall restrict, suspend or withdraw the notification as appropriate, depending on the seriousness of the failure. It shall also immediately inform the Commission and the other Member States accordingly.
+
+2. In the event of restriction, suspension or withdrawal of notification, or where [notified body|the notified ](notified body|the notified .html)body has ceased its activity, the [notifying authority](notifying authority.html) shall take appropriate steps to ensure that the files of that [notified body](notified body.html) are either taken over by another [notified body](notified body.html) or kept available for the responsible notifying authorities at their request.
