@@ -169,8 +169,8 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        - url: /articles/'real-time' remote biometric identification system.md
-            title: 'real-time' remote biometric identification system.md
+        - url: /articles/real-time remote biometric identification system.md
+            title: real-time remote biometric identification system.md
             order: 2
             category:  test test
         - url: /articles/Article 1  Subject matter.md
