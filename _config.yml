@@ -169,531 +169,531 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        - url: /articles/real-time remote biometric identification system.md
+        -   url: /articles/real-time remote biometric identification system.md
             title: real-time remote biometric identification system.md
             order: 2
             category:  test test
-        - url: /articles/Article 1  Subject matter.md
+        -   url: /articles/Article 1  Subject matter.md
             title: Article 1  Subject matter.md
             order: 4
             category:  test testI
-        - url: /articles/Article 2  Scope.md
+        -   url: /articles/Article 2  Scope.md
             title: Article 2  Scope.md
             order: 5
             category:  test test
-        - url: /articles/Article 3  Definitions.md
+        -   url: /articles/Article 3  Definitions.md
             title: Article 3  Definitions.md
             order: 6
             category:  test
-        - url: /articles/Article 4  Amendments to Annex I.md
+        -   url: /articles/Article 4  Amendments to Annex I.md
             title: Article 4  Amendments to Annex I.md
             order: 7
             category:  test
-        - url: /articles/Article 5.md
+        -   url: /articles/Article 5.md
             title: Article 5.md
             order: 8
             category:  test
-        - url: /articles/Article 6  Classification rules for high-risk AI systems.md
+        -   url: /articles/Article 6  Classification rules for high-risk AI systems.md
             title: Article 6  Classification rules for high-risk AI systems.md
             order: 9
             category:  test
-        - url: /articles/Article 7  Amendments to Annex III.md
+        -   url: /articles/Article 7  Amendments to Annex III.md
             title: Article 7  Amendments to Annex III.md
             order: 10
             category:  test
-        - url: /articles/Article 8  Compliance with the requirements.md
+        -   url: /articles/Article 8  Compliance with the requirements.md
             title: Article 8  Compliance with the requirements.md
             order: 11
             category:  test
-        - url: /articles/Article 9  Risk management system.md
+        -   url: /articles/Article 9  Risk management system.md
             title: Article 9  Risk management system.md
             order: 12
             category:  test
-        - url: /articles/Article 10  Data and data governance.md
+        -   url: /articles/Article 10  Data and data governance.md
             title: Article 10  Data and data governance.md
             order: 13
             category:  test
-        - url: /articles/Article 11  Technical documentation.md
+        -   url: /articles/Article 11  Technical documentation.md
             title: Article 11  Technical documentation.md
             order: 14
             category:  test
-        - url: /articles/Article 12  Record-keeping.md
+        -   url: /articles/Article 12  Record-keeping.md
             title: Article 12  Record-keeping.md
             order: 15
             category:  test
-        - url: /articles/Article 13  Transparency and provision of information to users.md
+        -   url: /articles/Article 13  Transparency and provision of information to users.md
             title: Article 13  Transparency and provision of information to users.md
             order: 16
             category:  test
-        - url: /articles/Article 14  Human oversight.md
+        -   url: /articles/Article 14  Human oversight.md
             title: Article 14  Human oversight.md
             order: 17
             category:  test
-        - url: /articles/Article 15  Accuracy, robustness and cybersecurity.md
+        -   url: /articles/Article 15  Accuracy, robustness and cybersecurity.md
             title: Article 15  Accuracy, robustness and cybersecurity.md
             order: 18
             category:  test
-        - url: /articles/Article 16  Obligations of providers of high-risk AI systems.md
+        -   url: /articles/Article 16  Obligations of providers of high-risk AI systems.md
             title: Article 16  Obligations of providers of high-risk AI systems.md
             order: 19
             category:  test
-        - url: /articles/Article 17  Quality management system.md
+        -   url: /articles/Article 17  Quality management system.md
             title: Article 17  Quality management system.md
             order: 20
             category:  test
-        - url: /articles/Article 18  Obligation to draw up technical documentation.md
+        -   url: /articles/Article 18  Obligation to draw up technical documentation.md
             title: Article 18  Obligation to draw up technical documentation.md
             order: 21
             category:  test
-        - url: /articles/Article 19  Conformity assessment.md
+        -   url: /articles/Article 19  Conformity assessment.md
             title: Article 19  Conformity assessment.md
             order: 22
             category:  test
-        - url: /articles/Article 20  Automatically generated logs.md
+        -   url: /articles/Article 20  Automatically generated logs.md
             title: Article 20  Automatically generated logs.md
             order: 23
             category:  test
-        - url: /articles/Article 21  Corrective actions.md
+        -   url: /articles/Article 21  Corrective actions.md
             title: Article 21  Corrective actions.md
             order: 24
             category:  test
-        - url: /articles/Article 22  Duty of information.md
+        -   url: /articles/Article 22  Duty of information.md
             title: Article 22  Duty of information.md
             order: 25
             category:  test
-        - url: /articles/Article 23  Cooperation with competent authorities.md
+        -   url: /articles/Article 23  Cooperation with competent authorities.md
             title: Article 23  Cooperation with competent authorities.md
             order: 26
             category:  test
-        - url: /articles/Article 24  Obligations of product manufacturers.md
+        -   url: /articles/Article 24  Obligations of product manufacturers.md
             title: Article 24  Obligations of product manufacturers.md
             order: 27
             category:  test
-        - url: /articles/Article 25  Authorised representatives.md
+        -   url: /articles/Article 25  Authorised representatives.md
             title: Article 25  Authorised representatives.md
             order: 28
             category:  test
-        - url: /articles/Article 26  Obligations of importers.md
+        -   url: /articles/Article 26  Obligations of importers.md
             title: Article 26  Obligations of importers.md
             order: 29
             category:  test
-        - url: /articles/Article 27  Obligations of distributors.md
+        -   url: /articles/Article 27  Obligations of distributors.md
             title: Article 27  Obligations of distributors.md
             order: 30
             category:  test
-        - url: /articles/Article 28  Obligations of distributors, importers, users or any other third-party.md
+        -   url: /articles/Article 28  Obligations of distributors, importers, users or any other third-party.md
             title: Article 28  Obligations of distributors, importers, users or any other third-party.md
             order: 31
             category:  test
-        - url: /articles/Article 29  Obligations of users of high-risk AI systems.md
+        -   url: /articles/Article 29  Obligations of users of high-risk AI systems.md
             title: Article 29  Obligations of users of high-risk AI systems.md
             order: 32
             category:  test
-        - url: /articles/Article 30  Notifying authorities.md
+        -   url: /articles/Article 30  Notifying authorities.md
             title: Article 30  Notifying authorities.md
             order: 33
             category:  test
-        - url: /articles/Article 31  Application of a conformity assessment body for notification.md
+        -   url: /articles/Article 31  Application of a conformity assessment body for notification.md
             title: Article 31  Application of a conformity assessment body for notification.md
             order: 34
             category:  test
-        - url: /articles/Article 32  Notification procedure.md
+        -   url: /articles/Article 32  Notification procedure.md
             title: Article 32  Notification procedure.md
             order: 35
             category:  test
-        - url: /articles/Article 33  Notified bodies.md
+        -   url: /articles/Article 33  Notified bodies.md
             title: Article 33  Notified bodies.md
             order: 36
             category:  test
-        - url: /articles/Article 34  Subsidiaries of and subcontracting by notified bodies.md
+        -   url: /articles/Article 34  Subsidiaries of and subcontracting by notified bodies.md
             title: Article 34  Subsidiaries of and subcontracting by notified bodies.md
             order: 37
             category:  test
-        - url: /articles/Article 35  Identification numbers and lists of notified bodies designated under this Regulation.md
+        -   url: /articles/Article 35  Identification numbers and lists of notified bodies designated under this Regulation.md
             title: Article 35  Identification numbers and lists of notified bodies designated under this Regulation.md
             order: 38
             category:  test
-        - url: /articles/Article 36  Changes to notifications.md
+        -   url: /articles/Article 36  Changes to notifications.md
             title: Article 36  Changes to notifications.md
             order: 39
             category:  test
-        - url: /articles/Article 37  Challenge to the competence of notified bodies.md
+        -   url: /articles/Article 37  Challenge to the competence of notified bodies.md
             title: Article 37  Challenge to the competence of notified bodies.md
             order: 40
             category:  test
-        - url: /articles/Article 38  Coordination of notified bodies.md
+        -   url: /articles/Article 38  Coordination of notified bodies.md
             title: Article 38  Coordination of notified bodies.md
             order: 41
             category:  test
-        - url: /articles/Article 39  Conformity assessment bodies of third countries.md
+        -   url: /articles/Article 39  Conformity assessment bodies of third countries.md
             title: Article 39  Conformity assessment bodies of third countries.md
             order: 42
             category:  test
-        - url: /articles/Article 40  Harmonised standards.md
+        -   url: /articles/Article 40  Harmonised standards.md
             title: Article 40  Harmonised standards.md
             order: 43
             category:  test
-        - url: /articles/Article 41  Common specifications.md
+        -   url: /articles/Article 41  Common specifications.md
             title: Article 41  Common specifications.md
             order: 44
             category:  test
-        - url: /articles/Article 42  Presumption of conformity with certain requirements.md
+        -   url: /articles/Article 42  Presumption of conformity with certain requirements.md
             title: Article 42  Presumption of conformity with certain requirements.md
             order: 45
             category:  test
-        - url: /articles/Article 43  Conformity assessment.md
+        -   url: /articles/Article 43  Conformity assessment.md
             title: Article 43  Conformity assessment.md
             order: 46
             category:  test
-        - url: /articles/Article 44  Certificates.md
+        -   url: /articles/Article 44  Certificates.md
             title: Article 44  Certificates.md
             order: 47
             category:  test
-        - url: /articles/Article 45  Appeal against decisions of notified bodies.md
+        -   url: /articles/Article 45  Appeal against decisions of notified bodies.md
             title: Article 45  Appeal against decisions of notified bodies.md
             order: 48
             category:  test
-        - url: /articles/Article 46  Information obligations of notified bodies.md
+        -   url: /articles/Article 46  Information obligations of notified bodies.md
             title: Article 46  Information obligations of notified bodies.md
             order: 49
             category:  test
-        - url: /articles/Article 47  Derogation from conformity assessment procedure.md
+        -   url: /articles/Article 47  Derogation from conformity assessment procedure.md
             title: Article 47  Derogation from conformity assessment procedure.md
             order: 50
             category:  test
-        - url: /articles/Article 48  EU declaration of conformity.md
+        -   url: /articles/Article 48  EU declaration of conformity.md
             title: Article 48  EU declaration of conformity.md
             order: 51
             category:  test
-        - url: /articles/Article 49  CE marking of conformity.md
+        -   url: /articles/Article 49  CE marking of conformity.md
             title: Article 49  CE marking of conformity.md
             order: 52
             category:  test
-        - url: /articles/Article 50  Document retention.md
+        -   url: /articles/Article 50  Document retention.md
             title: Article 50  Document retention.md
             order: 53
             category:  test
-        - url: /articles/Article 51  Registration.md
+        -   url: /articles/Article 51  Registration.md
             title: Article 51  Registration.md
             order: 54
             category:  test
-        - url: /articles/Article 52  Transparency obligations for certain AI systems.md
+        -   url: /articles/Article 52  Transparency obligations for certain AI systems.md
             title: Article 52  Transparency obligations for certain AI systems.md
             order: 55
             category:  test
-        - url: /articles/Article 53  AI regulatory sandboxes.md
+        -   url: /articles/Article 53  AI regulatory sandboxes.md
             title: Article 53  AI regulatory sandboxes.md
             order: 56
             category:  test
-        - url: /articles/Article 54 Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox.md
+        -   url: /articles/Article 54 Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox.md
             title: Article 54 Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox.md
             order: 57
             category:  test
-        - url: /articles/Article 55  Measures for small-scale providers and users.md
+        -   url: /articles/Article 55  Measures for small-scale providers and users.md
             title: Article 55  Measures for small-scale providers and users.md
             order: 58
             category:  test
-        - url: /articles/Article 56 Establishment of the European Artificial Intelligence Board.md
+        -   url: /articles/Article 56 Establishment of the European Artificial Intelligence Board.md
             title: Article 56 Establishment of the European Artificial Intelligence Board.md
             order: 59
             category:  test
-        - url: /articles/Article 57  Structure of the Board.md
+        -   url: /articles/Article 57  Structure of the Board.md
             title: Article 57  Structure of the Board.md
             order: 60
             category:  test
-        - url: /articles/Article 58  Tasks of the Board.md
+        -   url: /articles/Article 58  Tasks of the Board.md
             title: Article 58  Tasks of the Board.md
             order: 61
             category:  test
-        - url: /articles/Article 59  Designation of national competent authorities.md
+        -   url: /articles/Article 59  Designation of national competent authorities.md
             title: Article 59  Designation of national competent authorities.md
             order: 62
             category:  test
-        - url: /articles/Article 60  EU database for stand-alone high-risk AI systems.md
+        -   url: /articles/Article 60  EU database for stand-alone high-risk AI systems.md
             title: Article 60  EU database for stand-alone high-risk AI systems.md
             order: 63
             category:  test
-        - url: /articles/Article 61  Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems.md
+        -   url: /articles/Article 61  Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems.md
             title: Article 61  Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems.md
             order: 64
             category:  test
-        - url: /articles/Article 62  Reporting of serious incidents and of malfunctioning.md
+        -   url: /articles/Article 62  Reporting of serious incidents and of malfunctioning.md
             title: Article 62  Reporting of serious incidents and of malfunctioning.md
             order: 65
             category:  test
-        - url: /articles/Article 63  Market surveillance and control of AI systems in the Union market.md
+        -   url: /articles/Article 63  Market surveillance and control of AI systems in the Union market.md
             title: Article 63  Market surveillance and control of AI systems in the Union market.md
             order: 66
             category:  test
-        - url: /articles/Article 64  Access to data and documentation.md
+        -   url: /articles/Article 64  Access to data and documentation.md
             title: Article 64  Access to data and documentation.md
             order: 67
             category:  test
-        - url: /articles/Article 65  Procedure for dealing with AI systems presenting a risk at national level.md
+        -   url: /articles/Article 65  Procedure for dealing with AI systems presenting a risk at national level.md
             title: Article 65  Procedure for dealing with AI systems presenting a risk at national level.md
             order: 68
             category:  test
-        - url: /articles/Article 66  Union safeguard procedure.md
+        -   url: /articles/Article 66  Union safeguard procedure.md
             title: Article 66  Union safeguard procedure.md
             order: 69
             category:  test
-        - url: /articles/Article 67  Compliant AI systems which present a risk.md
+        -   url: /articles/Article 67  Compliant AI systems which present a risk.md
             title: Article 67  Compliant AI systems which present a risk.md
             order: 70
             category:  test
-        - url: /articles/Article 68  Formal non-compliance.md
+        -   url: /articles/Article 68  Formal non-compliance.md
             title: Article 68  Formal non-compliance.md
             order: 71
             category:  test
-        - url: /articles/Article 69  Codes of conduct.md
+        -   url: /articles/Article 69  Codes of conduct.md
             title: Article 69  Codes of conduct.md
             order: 72
             category:  test
-        - url: /articles/Article 70  Confidentiality.md
+        -   url: /articles/Article 70  Confidentiality.md
             title: Article 70  Confidentiality.md
             order: 73
             category:  test
-        - url: /articles/Article 71  Penalties.md
+        -   url: /articles/Article 71  Penalties.md
             title: Article 71  Penalties.md
             order: 74
             category:  test
-        - url: /articles/Article 72  Administrative fines on Union institutions, agencies and bodies.md
+        -   url: /articles/Article 72  Administrative fines on Union institutions, agencies and bodies.md
             title: Article 72  Administrative fines on Union institutions, agencies and bodies.md
             order: 75
             category:  test
-        - url: /articles/Article 73  Exercise of the delegation.md
+        -   url: /articles/Article 73  Exercise of the delegation.md
             title: Article 73  Exercise of the delegation.md
             order: 76
             category:  test
-        - url: /articles/Article 74  Committee procedure.md
+        -   url: /articles/Article 74  Committee procedure.md
             title: Article 74  Committee procedure.md
             order: 77
             category:  test
-        - url: /articles/Article 75  Amendment to Regulation (EC) No 3002008.md
+        -   url: /articles/Article 75  Amendment to Regulation (EC) No 3002008.md
             title: Article 75  Amendment to Regulation (EC) No 3002008.md
             order: 78
             category:  test
-        - url: /articles/Article 76  Amendment to Regulation (EU) No 1672013.md
+        -   url: /articles/Article 76  Amendment to Regulation (EU) No 1672013.md
             title: Article 76  Amendment to Regulation (EU) No 1672013.md
             order: 79
             category:  test
-        - url: /articles/Article 77  Amendment to Regulation (EU) No 1682013.md
+        -   url: /articles/Article 77  Amendment to Regulation (EU) No 1682013.md
             title: Article 77  Amendment to Regulation (EU) No 1682013.md
             order: 80
             category:  test
-        - url: /articles/Article 78  Amendment to Directive 201490EU.md
+        -   url: /articles/Article 78  Amendment to Directive 201490EU.md
             title: Article 78  Amendment to Directive 201490EU.md
             order: 81
             category:  test
-        - url: /articles/Article 79  Amendment to Directive (EU) 2016797.md
+        -   url: /articles/Article 79  Amendment to Directive (EU) 2016797.md
             title: Article 79  Amendment to Directive (EU) 2016797.md
             order: 82
             category:  test
-        - url: /articles/Article 80  Amendment to Regulation (EU) 2018858.md
+        -   url: /articles/Article 80  Amendment to Regulation (EU) 2018858.md
             title: Article 80  Amendment to Regulation (EU) 2018858.md
             order: 83
             category:  test
-        - url: /articles/Article 81  Amendment to Regulation (EU) 20181139.md
+        -   url: /articles/Article 81  Amendment to Regulation (EU) 20181139.md
             title: Article 81  Amendment to Regulation (EU) 20181139.md
             order: 84
             category:  test
-        - url: /articles/Article 82  Amendment to Regulation (EU) 20192144.md
+        -   url: /articles/Article 82  Amendment to Regulation (EU) 20192144.md
             title: Article 82  Amendment to Regulation (EU) 20192144.md
             order: 85
             category:  test
-        - url: /articles/Article 83  AI systems already placed on the market or put into service.md
+        -   url: /articles/Article 83  AI systems already placed on the market or put into service.md
             title: Article 83  AI systems already placed on the market or put into service.md
             order: 86
             category:  test
-        - url: /articles/Article 84  Evaluation and review.md
+        -   url: /articles/Article 84  Evaluation and review.md
             title: Article 84  Evaluation and review.md
             order: 87
             category:  test
-        - url: /articles/Article 85  Entry into force and application.md
+        -   url: /articles/Article 85  Entry into force and application.md
             title: Article 85  Entry into force and application.md
             order: 88
             category:  test
-        - url: /articles/artificial intelligence system.md
+        -   url: /articles/artificial intelligence system.md
             title: artificial intelligence system.md
             order: 89
             category:  test
-        - url: /articles/Artificial Intelligence systems.md
+        -   url: /articles/Artificial Intelligence systems.md
             title: Artificial Intelligence systems.md
             order: 90
             category:  test
-        - url: /articles/authorised representative.md
+        -   url: /articles/authorised representative.md
             title: authorised representative.md
             order: 91
             category:  test
-        - url: /articles/biometric categorisation system.md
+        -   url: /articles/biometric categorisation system.md
             title: biometric categorisation system.md
             order: 92
             category:  test
-        - url: /articles/biometric data.md
+        -   url: /articles/biometric data.md
             title: biometric data.md
             order: 93
             category:  test
-        - url: /articles/CE marking of conformity.md
+        -   url: /articles/CE marking of conformity.md
             title: CE marking of conformity.md
             order: 94
             category:  test
-        - url: /articles/common specifications.md
+        -   url: /articles/common specifications.md
             title: common specifications.md
             order: 95
             category:  test
-        - url: /articles/conformity assessment body.md
+        -   url: /articles/conformity assessment body.md
             title: conformity assessment body.md
             order: 96
             category:  test
-        - url: /articles/conformity assessment.md
+        -   url: /articles/conformity assessment.md
             title: conformity assessment.md
             order: 97
             category:  test
-        - url: /articles/distributor.md
+        -   url: /articles/distributor.md
             title: distributor.md
             order: 98
             category:  test
-        - url: /articles/emotion recognition system.md
+        -   url: /articles/emotion recognition system.md
             title: emotion recognition system.md
             order: 99
             category:  test
-        - url: /articles/Explanatory memorandum.md
+        -   url: /articles/Explanatory memorandum.md
             title: Explanatory memorandum.md
             order: 100
             category:  test
-        - url: /articles/harmonised standard.md
+        -   url: /articles/harmonised standard.md
             title: harmonised standard.md
             order: 101
             category:  test
-        - url: /articles/high-risk AI systems.md
+        -   url: /articles/high-risk AI systems.md
             title: high-risk AI systems.md
             order: 102
             category:  test
-        - url: /articles/importer.md
+        -   url: /articles/importer.md
             title: importer.md
             order: 103
             category:  test
-        - url: /articles/input data.md
+        -   url: /articles/input data.md
             title: input data.md
             order: 104
             category:  test
-        - url: /articles/instructions for use.md
+        -   url: /articles/instructions for use.md
             title: instructions for use.md
             order: 105
             category:  test
-        - url: /articles/intended purpose.md
+        -   url: /articles/intended purpose.md
             title: intended purpose.md
             order: 106
             category:  test
-        - url: /articles/law enforcement authority.md
+        -   url: /articles/law enforcement authority.md
             title: law enforcement authority.md
             order: 107
             category:  test
-        - url: /articles/law enforcement.md
+        -   url: /articles/law enforcement.md
             title: law enforcement.md
             order: 108
             category:  test
-        - url: /articles/making available on the market.md
+        -   url: /articles/making available on the market.md
             title: making available on the market.md
             order: 109
             category:  test
-        - url: /articles/market surveillance authority.md
+        -   url: /articles/market surveillance authority.md
             title: market surveillance authority.md
             order: 110
             category:  test
-        - url: /articles/national competent authority.md
+        -   url: /articles/national competent authority.md
             title: national competent authority.md
             order: 111
             category:  test
-        - url: /articles/national supervisory authority.md
+        -   url: /articles/national supervisory authority.md
             title: national supervisory authority.md
             order: 112
             category:  test
-        - url: /articles/notified body.md
+        -   url: /articles/notified body.md
             title: notified body.md
             order: 113
             category:  test
-        - url: /articles/notifying authority.md
+        -   url: /articles/notifying authority.md
             title: notifying authority.md
             order: 114
             category:  test
-        - url: /articles/operator.md
+        -   url: /articles/operator.md
             title: operator.md
             order: 115
             category:  test
-        - url: /articles/performance of an AI system.md
+        -   url: /articles/performance of an AI system.md
             title: performance of an AI system.md
             order: 116
             category:  test
-        - url: /articles/placing on the market.md
+        -   url: /articles/placing on the market.md
             title: placing on the market.md
             order: 117
             category:  test
-        - url: /articles/post-market monitoring.md
+        -   url: /articles/post-market monitoring.md
             title: post-market monitoring.md
             order: 118
             category:  test
-        - url: /articles/provider.md
+        -   url: /articles/provider.md
             title: provider.md
             order: 119
             category:  test
-        - url: /articles/publicly accessible space.md
+        -   url: /articles/publicly accessible space.md
             title: publicly accessible space.md
             order: 120
             category:  test
-        - url: /articles/putting into service.md
+        -   url: /articles/putting into service.md
             title: putting into service.md
             order: 121
             category:  test
-        - url: /articles/reasonably foreseeable misuse.md
+        -   url: /articles/reasonably foreseeable misuse.md
             title: reasonably foreseeable misuse.md
             order: 122
             category:  test
-        - url: /articles/recall of an AI system.md
+        -   url: /articles/recall of an AI system.md
             title: recall of an AI system.md
             order: 123
             category:  test
-        - url: /articles/remote biometric identification system.md
+        -   url: /articles/remote biometric identification system.md
             title: remote biometric identification system.md
             order: 124
             category:  test
-        - url: /articles/safety component of a product or system.md
+        -   url: /articles/safety component of a product or system.md
             title: safety component of a product or system.md
             order: 125
             category:  test
-        - url: /articles/serious incident.md
+        -   url: /articles/serious incident.md
             title: serious incident.md
             order: 126
             category:  test
-        - url: /articles/small-scale provider.md
+        -   url: /articles/small-scale provider.md
             title: small-scale provider.md
             order: 127
             category:  test
-        - url: /articles/substantial modification.md
+        -   url: /articles/substantial modification.md
             title: substantial modification.md
             order: 128
             category:  test
-        - url: /articles/testing data.md
+        -   url: /articles/testing data.md
             title: testing data.md
             order: 129
             category:  test
-        - url: /articles/training data.md
+        -   url: /articles/training data.md
             title: training data.md
             order: 130
             category:  test
-        - url: /articles/Untitled.md
+        -   url: /articles/Untitled.md
             title: Untitled.md
             order: 131
             category:  test
-        - url: /articles/user.md
+        -   url: /articles/user.md
             title: user.md
             order: 132
             category:  test
-        - url: /articles/validation data.md
+        -   url: /articles/validation data.md
             title: validation data.md
             order: 133
             category:  test
-        - url: /articles/withdrawal of an AI system.md
+        -   url: /articles/withdrawal of an AI system.md
             title: withdrawal of an AI system.md
             order: 134
             category:  test
