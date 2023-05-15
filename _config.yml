@@ -172,19 +172,19 @@ sidebar:
         -   url: /_articles/real-time remote biometric identification system.md
             title: real-time remote biometric identification system
             order: 2
-            category:  Definitions
+            category: Definitions
         -   url: /articles/Article 1  Subject matter.md
             title: Article 1  Subject matter.md
             order: 4
-            category:  I. General Provisions
+            category: I. General Provisions
         -   url: /articles/Article 2  Scope.md
             title: Article 2  Scope.md
             order: 5
-            category:  I. General Provisions
+            category: I. General Provisions
         -   url: /articles/Article 3  Definitions.md
             title: Article 3  Definitions.md
             order: 6
-            category:  I. General Provisions
+            category: I. General Provisions
         -   url: /articles/Article 4  Amendments to Annex I.md
             title: Article 4  Amendments to Annex I.md
             order: 7
@@ -192,207 +192,207 @@ sidebar:
         -   url: /articles/Article 5.md
             title: Article 5.md
             order: 8
-            category:  test
+            category: II. Prohibited Artificial Intelligence Practices
         -   url: /articles/Article 6  Classification rules for high-risk AI systems.md
             title: Article 6  Classification rules for high-risk AI systems.md
             order: 9
-            category:  test
+            category: III.1 Classification Of AI Systems As High-risk
         -   url: /articles/Article 7  Amendments to Annex III.md
             title: Article 7  Amendments to Annex III.md
             order: 10
-            category:  test
+            category: III.1 Classification Of AI Systems As High-risk
         -   url: /articles/Article 8  Compliance with the requirements.md
             title: Article 8  Compliance with the requirements.md
             order: 11
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 9  Risk management system.md
             title: Article 9  Risk management system.md
             order: 12
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 10  Data and data governance.md
             title: Article 10  Data and data governance.md
             order: 13
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 11  Technical documentation.md
             title: Article 11  Technical documentation.md
             order: 14
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 12  Record-keeping.md
             title: Article 12  Record-keeping.md
             order: 15
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 13  Transparency and provision of information to users.md
             title: Article 13  Transparency and provision of information to users.md
             order: 16
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 14  Human oversight.md
             title: Article 14  Human oversight.md
             order: 17
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 15  Accuracy, robustness and cybersecurity.md
             title: Article 15  Accuracy, robustness and cybersecurity.md
             order: 18
-            category:  test
+            category: III.2 Requirements for High-risk AI Systems
         -   url: /articles/Article 16  Obligations of providers of high-risk AI systems.md
             title: Article 16  Obligations of providers of high-risk AI systems.md
             order: 19
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 17  Quality management system.md
             title: Article 17  Quality management system.md
             order: 20
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 18  Obligation to draw up technical documentation.md
             title: Article 18  Obligation to draw up technical documentation.md
             order: 21
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 19  Conformity assessment.md
             title: Article 19  Conformity assessment.md
             order: 22
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 20  Automatically generated logs.md
             title: Article 20  Automatically generated logs.md
             order: 23
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 21  Corrective actions.md
             title: Article 21  Corrective actions.md
             order: 24
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 22  Duty of information.md
             title: Article 22  Duty of information.md
             order: 25
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 23  Cooperation with competent authorities.md
             title: Article 23  Cooperation with competent authorities.md
             order: 26
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 24  Obligations of product manufacturers.md
             title: Article 24  Obligations of product manufacturers.md
             order: 27
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 25  Authorised representatives.md
             title: Article 25  Authorised representatives.md
             order: 28
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 26  Obligations of importers.md
             title: Article 26  Obligations of importers.md
             order: 29
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 27  Obligations of distributors.md
             title: Article 27  Obligations of distributors.md
             order: 30
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 28  Obligations of distributors, importers, users or any other third-party.md
             title: Article 28  Obligations of distributors, importers, users or any other third-party.md
             order: 31
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 29  Obligations of users of high-risk AI systems.md
             title: Article 29  Obligations of users of high-risk AI systems.md
             order: 32
-            category:  test
+            category: III.3 Obligations Of Providers and Users of High-risk AI Systems and Other Parties
         -   url: /articles/Article 30  Notifying authorities.md
             title: Article 30  Notifying authorities.md
             order: 33
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 31  Application of a conformity assessment body for notification.md
             title: Article 31  Application of a conformity assessment body for notification.md
             order: 34
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 32  Notification procedure.md
             title: Article 32  Notification procedure.md
             order: 35
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 33  Notified bodies.md
             title: Article 33  Notified bodies.md
             order: 36
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 34  Subsidiaries of and subcontracting by notified bodies.md
             title: Article 34  Subsidiaries of and subcontracting by notified bodies.md
             order: 37
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 35  Identification numbers and lists of notified bodies designated under this Regulation.md
             title: Article 35  Identification numbers and lists of notified bodies designated under this Regulation.md
             order: 38
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 36  Changes to notifications.md
             title: Article 36  Changes to notifications.md
             order: 39
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 37  Challenge to the competence of notified bodies.md
             title: Article 37  Challenge to the competence of notified bodies.md
             order: 40
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 38  Coordination of notified bodies.md
             title: Article 38  Coordination of notified bodies.md
             order: 41
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 39  Conformity assessment bodies of third countries.md
             title: Article 39  Conformity assessment bodies of third countries.md
             order: 42
-            category:  test
+            category: III.4 Notifiying Authorities And Notified Bodies
         -   url: /articles/Article 40  Harmonised standards.md
             title: Article 40  Harmonised standards.md
             order: 43
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 41  Common specifications.md
             title: Article 41  Common specifications.md
             order: 44
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 42  Presumption of conformity with certain requirements.md
             title: Article 42  Presumption of conformity with certain requirements.md
             order: 45
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 43  Conformity assessment.md
             title: Article 43  Conformity assessment.md
             order: 46
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 44  Certificates.md
             title: Article 44  Certificates.md
             order: 47
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 45  Appeal against decisions of notified bodies.md
             title: Article 45  Appeal against decisions of notified bodies.md
             order: 48
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 46  Information obligations of notified bodies.md
             title: Article 46  Information obligations of notified bodies.md
             order: 49
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 47  Derogation from conformity assessment procedure.md
             title: Article 47  Derogation from conformity assessment procedure.md
             order: 50
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 48  EU declaration of conformity.md
             title: Article 48  EU declaration of conformity.md
             order: 51
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 49  CE marking of conformity.md
             title: Article 49  CE marking of conformity.md
             order: 52
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 50  Document retention.md
             title: Article 50  Document retention.md
             order: 53
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 51  Registration.md
             title: Article 51  Registration.md
             order: 54
-            category:  test
+            category: III.5 Standards, Conformity Assessment, Certificates, Registration
         -   url: /articles/Article 52  Transparency obligations for certain AI systems.md
             title: Article 52  Transparency obligations for certain AI systems.md
             order: 55
-            category:  test
+            category: IV Transparency Obligations For Certain Ai Systems
         -   url: /articles/Article 53  AI regulatory sandboxes.md
             title: Article 53  AI regulatory sandboxes.md
             order: 56
-            category:  test
+            category: V Measures In Support Of Innovation
         -   url: /articles/Article 54 Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox.md
             title: Article 54 Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox.md
             order: 57
-            category:  test
+            category: V Measures In Support Of Innovation
         -   url: /articles/Article 55  Measures for small-scale providers and users.md
             title: Article 55  Measures for small-scale providers and users.md
             order: 58
-            category:  test
+            category: V Measures In Support Of Innovation
         -   url: /articles/Article 56 Establishment of the European Artificial Intelligence Board.md
             title: Article 56 Establishment of the European Artificial Intelligence Board.md
             order: 59
