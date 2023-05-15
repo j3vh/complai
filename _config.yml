@@ -169,26 +169,26 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: /articles/real-time remote biometric identification system.md
-            title: real-time remote biometric identification system.md
+        -   url: /_articles/real-time remote biometric identification system.md
+            title: real-time remote biometric identification system
             order: 2
-            category:  test test
+            category:  Definitions
         -   url: /articles/Article 1  Subject matter.md
             title: Article 1  Subject matter.md
             order: 4
-            category:  test testI
+            category:  I. General Provisions
         -   url: /articles/Article 2  Scope.md
             title: Article 2  Scope.md
             order: 5
-            category:  test test
+            category:  I. General Provisions
         -   url: /articles/Article 3  Definitions.md
             title: Article 3  Definitions.md
             order: 6
-            category:  test
+            category:  I. General Provisions
         -   url: /articles/Article 4  Amendments to Annex I.md
             title: Article 4  Amendments to Annex I.md
             order: 7
-            category:  test
+            category:  I. General Provisions
         -   url: /articles/Article 5.md
             title: Article 5.md
             order: 8
