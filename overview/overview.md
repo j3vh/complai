@@ -3,7 +3,7 @@ category: Article
 article: overview.md
 title: "AI Act overview"
 layout: libdoc/page
-category: General
+category: AI Act
 ---
 
 #### TITLE I GENERAL PROVISIONS

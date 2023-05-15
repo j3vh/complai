@@ -4,7 +4,7 @@ article: "Title I"
 title: TITLE I GENERAL PROVISIONS
 description: "test veschrijvnaisodfnasdfklnm alsknaf sd;lkansjdf ;asdkf ;ads;kd"
 layout: libdoc/page
-category: General
+category: AI Act
 ---
 
 - [Article 1  Subject matter](Article 1  Subject matter.html)

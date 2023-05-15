@@ -1,6 +1,5 @@
 ---
-category: Article
-article: Article 5.md
+Title II Prohibited Artificial Intelligence Practicesarticle: Article 5.md
 ---
 
 #### Article 5

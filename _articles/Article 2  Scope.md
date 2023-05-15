@@ -1,5 +1,5 @@
 ---
-category: Article
+category: Title I General Provisions
 article: Article 2  Scope.md
 ---
 
